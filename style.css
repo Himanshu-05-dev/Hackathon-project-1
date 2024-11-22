@@ -65,7 +65,7 @@
 .section-1{
    height:90vh; 
    padding: 1rem 10rem;
-   background: url("sec-1-img.jpg")center center;
+   background: url("images/sec-1-img.jpg")center center;
    background-size: 100% 100%;
    background-repeat: no-repeat;
    position: relative;
